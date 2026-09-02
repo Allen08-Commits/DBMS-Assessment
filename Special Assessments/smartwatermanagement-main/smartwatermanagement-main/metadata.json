@@ -1,0 +1,6 @@
+{
+  "name": "Smart Water Utility Consumption, Billing, and Complaint Management System",
+  "description": "A comprehensive DBMS academic project demonstrating File Organization, B+ Tree Indexing, Hashing, Query Optimization, ACID Transactions, Concurrency Control, and Isolation Levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
